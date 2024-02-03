@@ -1,2 +1,4 @@
 # demo
-it is my first repo...
+It is my first repo.<br>
+Name:- Kartick koley <br>
+Qualification:- BCA(student).
